@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AttackUpgrade">
+    <Position X="7.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAABEAAAAAAAABAAAAAEAAAAAAAAiAAABEAA0Q=</HashCode>
+      <FileName>Assets\AttackUpgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossDecision">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEAAAAAAAAAAAAABAAEEAAgAAAQAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\BossDecision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAAAAAAEAAEAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaveLevelManager">
+    <Position X="30.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAAAAAAIEAAEQAIEAEAUAAAAAEACAAAAEA=</HashCode>
+      <FileName>Assets\CaveLevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Destruction">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CavesRooms\Destruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomSpawn">
+    <Position X="39.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAIAAAAAAAAAAAAEAAAAAAAAAAAAAAAAGAAAAgEA=</HashCode>
+      <FileName>Assets\CavesRooms\RoomSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomTemplates">
+    <Position X="39.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAAAAASAAAgAAAAIAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CavesRooms\RoomTemplates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnTile">
+    <Position X="29" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAABAACAAoAACAAAIAAAQAAAAAAAAAAICAAgAAAI=</HashCode>
+      <FileName>Assets\CavesRooms\SpawnTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeImage">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAgAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ChangeImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckPoint">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAAAIAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CheckPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chest">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAABAgAAAAAAAAABAAEAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Chest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChildBlockCollider">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\ChildBlockCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChildCollider">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\ChildCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CurrentMaxHealth">
+    <Position X="34.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CurrentMaxHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CutsceneEnter">
+    <Position X="36" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAIAAAAAAFIAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CutsceneEnter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemonBoss">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQEAAAIAIAIAAI0AAAAIQEAAIAEEQABAEAAggAQAUA=</HashCode>
+      <FileName>Assets\DemonBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialogue">
+    <Position X="16.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Dialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueManager">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAiCAAAABAAAAAAEAAAAAAAAAEAIABAACIAAEA=</HashCode>
+      <FileName>Assets\DialogueManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueTrigger">
+    <Position X="22" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAIAAABAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DialogueTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAIgAAAAAAAAAAAAAAAAAEAAgAAAAAA=</HashCode>
+      <FileName>Assets\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FakeFloor">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\FakeFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flying_Eye">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FABAAAAIAgAIAQIkIAECCAACAAAEAwEAAEEAgAAAAEA=</HashCode>
+      <FileName>Assets\Flying_Eye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Following_Camera">
+    <Position X="29" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Following_Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FragileFloor">
+    <Position X="37.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAgACAAAAA=</HashCode>
+      <FileName>Assets\FragileFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FungiQuest">
+    <Position X="37.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAAAAAAAAEAAAAAAAAAAAAEAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\FungiQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FungiShopTender">
+    <Position X="16.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACBAgAAAAAAAAEAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\FungiShopTender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gold">
+    <Position X="25.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Gold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoldText">
+    <Position X="25.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\GoldText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Health">
+    <Position X="23.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BASAEAEYACAAAAAAAgAgAAAAAABBAAAAAUAAICAAAQg=</HashCode>
+      <FileName>Assets\Health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthBarScript">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAgAAAAA=</HashCode>
+      <FileName>Assets\HealthBarScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthPotion">
+    <Position X="12.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAABEAAAAAAAABAAAAAEAAAAAAAAiAAABEAA0Q=</HashCode>
+      <FileName>Assets\HealthPotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthPotionQuantity">
+    <Position X="36" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\HealthPotionQuantity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthUpgrade">
+    <Position X="10" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAABEAAAAAAAABAAAAAEAAAAAAAAiAAABEAA0Q=</HashCode>
+      <FileName>Assets\HealthUpgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeavenLevelManager">
+    <Position X="27.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAEAAAAAAAAAAAAAAAIAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\HeavenLevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generador">
+    <Position X="18.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAEgACBgQAAAAAAAEAABAAAAAQIAAAAgRQAKAAA=</HashCode>
+      <FileName>Assets\HeavenTiles\Generador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metodos">
+    <Position X="37.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAgAAAAAAABAAAAAAgAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\HeavenTiles\Metodos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hell_Beast">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQBAAAMAAAIhQIgAAgAAAAAAAAEAAAAAFAAgAACAEA=</HashCode>
+      <FileName>Assets\Hell_Beast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HUDCollider">
+    <Position X="32.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAAAAAAAAFIAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\HUDCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory">
+    <Position X="34.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAQAQIAAAAAAAAhAAAAAAAAAAAMBAAIBAkBAAAEg=</HashCode>
+      <FileName>Assets\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="11.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAgQ=</HashCode>
+      <FileName>Assets\Items\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JumpEnemyAttacker">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kCgEAAAMEmIIEAIgAAgAIAGAgQAEAAAJAUGBggEQAUA=</HashCode>
+      <FileName>Assets\JumpEnemyAttacker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Knight">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQEAAAMAABoCAI0AAAAAQEAAAAEEQABAEAAggAQAUA=</HashCode>
+      <FileName>Assets\Knight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="limitFloorHeaven">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\limitFloorHeaven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Limits">
+    <Position X="29" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Limits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScript">
+    <Position X="36" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAQA=</HashCode>
+      <FileName>Assets\MenuScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinerQuest">
+    <Position X="29" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAEACAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MinerQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinerTenderShop">
+    <Position X="37.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACBAgAAAAAAAAAAAAEBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MinerTenderShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MisteryKey">
+    <Position X="14" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAABEAAAAAAAABAAAAAEAAAAAAAAiAAABEAA0Q=</HashCode>
+      <FileName>Assets\MisteryKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movement">
+    <Position X="36" Y="7.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Movement.BoolEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Movement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAUAAAAGAohAAAAgCAAAAAEAAAAgQAQYQCCAAAAAAGA=</HashCode>
+      <FileName>Assets\Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mushroom">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAIAAAIgQIgAAAAAAAAAEQEAQhAAEAAgBAAAEA=</HashCode>
+      <FileName>Assets\Mushroom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform">
+    <Position X="18.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAQAQAAAAAAAAAECAAQAAAAAgAAAAAAE=</HashCode>
+      <FileName>Assets\Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Combat">
+    <Position X="20.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAwAAAEEwwIAEBQEFAEEEQCAIIAFAAAAAQAQQIAAQAA=</HashCode>
+      <FileName>Assets\Player_Combat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Invulnerability">
+    <Position X="22" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQIgAABAACBEABAAAAAYAAAAAEgAAAAAAAAgAAAAAAg=</HashCode>
+      <FileName>Assets\Player_Invulnerability.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Movement">
+    <Position X="30.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>rQQCAAAAAiBEIIAWgBIAAAAQQEQAGAACAAEgIAAhgAA=</HashCode>
+      <FileName>Assets\Player_Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Position">
+    <Position X="27.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Player_Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerDetector">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portal">
+    <Position X="27.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Portal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecretRoomBlock">
+    <Position X="18.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAg=</HashCode>
+      <FileName>Assets\SecretRoomBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sign">
+    <Position X="39.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAACAgAAAgAAAAAEAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Sign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryData">
+    <Position X="23.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAACAAAAAAAAAAAgAAAAAAAAAAAAQEAAAACAAQAAAA=</HashCode>
+      <FileName>Assets\SoData\InventoryData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KarmaData">
+    <Position X="23.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAIAAAAGAAA=</HashCode>
+      <FileName>Assets\SoData\KarmaData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwampLevelManager">
+    <Position X="32.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAIAAAAQAIABFAAAAAAAEACAAAAEA=</HashCode>
+      <FileName>Assets\SwampLevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwordDamageText">
+    <Position X="39.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SwordDamageText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriggerBoss">
+    <Position X="16.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAIAAAAAAQAAA=</HashCode>
+      <FileName>Assets\TriggerBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValkyQuest">
+    <Position X="34.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAABAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ValkyQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Valkyrie">
+    <Position X="27.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACBAgAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Valkyrie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.RuleTile">
+    <Position X="32.5" Y="9.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="UnityEngine.RuleTile.TilingRule" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\HeavenTiles\RuleTile\RuleTile.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQTBiQACkQAAAAAAAAAAgABADAAAAAAAAAAAAAEIA=</HashCode>
+      <FileName>Assets\HeavenTiles\RuleTile\RuleTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Algoritmo">
+    <Position X="16.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\HeavenTiles\Generador.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

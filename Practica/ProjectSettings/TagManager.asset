@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelManager
+  - SecretRoomBlock
+  - Rooms
+  - SpawnPoint
+  - Wall
+  - BossHealth
+  - TriggerBoss
+  - FinalRoom
+  - BossPortal
+  - Inventory
+  - Chest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - Ground
+  - InvisibleWall
+  - Enemy
+  - CutScene
+  - Gold
+  - Spikes
+  - Walls
+  - PlayerDetector
+  - ExtraFloor
+  - ChestFloor
+  - Stair
+  - PlatformV
+  - PlatformH
+  - FragileFloor
+  - ClimbingWall
+  - RandomChestEnemy
+  - 
+  - CavePortal
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sign
+    uniqueID: 2208929251
+    locked: 0
+  - name: Player
+    uniqueID: 125594649
+    locked: 0
+  - name: Ground
+    uniqueID: 643761325
+    locked: 0
+  - name: Shop
+    uniqueID: 1093344177
+    locked: 0
